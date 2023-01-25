@@ -1,0 +1,71 @@
+    .all button
+{
+   font-size: 60px;
+   align-items: center;
+   width:75px;
+   align-content: center;
+   border-radius: 120px;
+   border-color: black;
+   
+}
+
+.row11 button
+{
+   background: #505050;
+   
+}
+
+.row1 button 
+{
+   color: #d4d4d2;
+   background: #1c1c1c;
+}
+
+*
+{
+   padding: 0;
+   margin: 0;
+}
+
+.all
+{
+   position: absolute;
+   left: 25%;
+   top:  10%;
+   transform: translate(50%,50%);
+}
+
+.in input 
+{
+   position: absolute;
+   text-align: right;
+   font-size: 55px;
+   width:24%; 
+   background: black;
+   color:white;
+   top: 22%;
+   left: 26%;
+   transform: translate(50%,50%);
+   border-color: black;
+   
+}
+
+.c p
+{
+   position: absolute;
+   color: whitesmoke;
+   top: 1%;
+   font-size: 14px;
+   left: 37%;
+   transform: translate(50%, 50%);
+}
+
+.t p
+{
+   position: absolute;
+   color: whitesmoke;
+   font-size: 14px;
+   top: 1%;
+   left: 50%;
+   transform: translate(50%,50%);
+}
